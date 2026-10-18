@@ -123,4 +123,4 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\uninstall.ps1
 
 ## License
 
-MIT，见 [LICENSE](LICENSE)。发布前把版权人改成你自己。
+MIT，见 [LICENSE](LICENSE)。
